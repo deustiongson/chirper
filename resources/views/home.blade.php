@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:title>
-        Welcome Test
+        Welcome
     </x-slot:title>
     <div class="max-w-2xl mx-auto">
         <div class="card bg-base-100 shadow mt-8">
